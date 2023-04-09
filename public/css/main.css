@@ -1,0 +1,11 @@
+p {
+    color: aqua;
+}
+
+a[href] {
+    color: aqua;
+}
+
+body {
+    color:chartreuse;
+}
