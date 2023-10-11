@@ -1,12 +1,6 @@
-/*********************************************************************************
-*  WEB322 – Assignment 05
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
-*  of this assignment has been copied manually or electronically from any other source 
-*  (including 3rd party web sites) or distributed to other students.
-* 
-*  Name: Nency Satishkumar Patel___ Student ID: 156797219__ Date: 24-03-2023__
+/********************************************************************************* 
 *
-*  Online (Cyclic) Link: https://vast-puce-fawn-tam.cyclic.app
+* Online (Cyclic) Link: https://vast-puce-fawn-tam.cyclic.app
 *
 ********************************************************************************/ 
 const express = require('express');
